@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/QuizApp/static/css/main.b8f5406a.css",
+    "main.js": "/QuizApp/static/js/main.621ccd5c.js",
+    "static/js/27.1e2ede57.chunk.js": "/QuizApp/static/js/27.1e2ede57.chunk.js",
+    "index.html": "/QuizApp/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b8f5406a.css",
+    "static/js/main.621ccd5c.js"
+  ]
+}
